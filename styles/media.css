@@ -34,3 +34,41 @@
         width: 100%;
     }
 }
+
+@media screen and (max-width: 460px){
+
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input{
+        align-self: center;
+        width: 85%;
+    }
+
+    img{
+        display: none;
+    }
+
+    ul{
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    aside{
+        width: 100%;
+    }
+}
