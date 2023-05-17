@@ -1,2 +1,0 @@
-# chik-seguros-site
- 
