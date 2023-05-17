@@ -19,6 +19,7 @@
 
     input{
         align-self: center;
+        width: 85%;
     }
 
     img{
@@ -27,5 +28,9 @@
 
     ul{
         text-align: center;
+    }
+
+    aside{
+        width: 100%;
     }
 }
