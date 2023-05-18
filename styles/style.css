@@ -61,7 +61,7 @@ h1{
 
 main{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-top: 50px;
 }
 
@@ -107,6 +107,10 @@ input{
     font-size: 15px;
 }
 
+#div-img-seguradoras img {
+    width: 100px;
+}
+
 .footer {
     position: relative;
     left: 0;
@@ -116,4 +120,4 @@ input{
     background-color: whitesmoke;
     color: white;
     text-align: center;
-  }
+}

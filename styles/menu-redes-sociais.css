@@ -19,19 +19,25 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #fff;
     border-radius: 50%;
     margin-right: 10px;
     transition: all .4s ease;
+    font-size: 30px;
 }
 .instagram{
-    background-color: #c32aa3;
+    color: #c32aa3;
+    background-color: whitesmoke;
 }
 .whatsapp{
-    background-color: #25d366;
+    background-color: whitesmoke;
+}
+.whatsapp a{
+    color: #25d366;
+    margin-top: 3px;
 }
 .facebook{
-    background-color: #1877f2;
+    color: #1877f2;
+    background-color: whitesmoke;
 }
 .twitter{
     background-color: #1da1f2;
