@@ -108,9 +108,10 @@ input{
 }
 
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
+    top: 50px;
     width: 100%;
     background-color: whitesmoke;
     color: white;
