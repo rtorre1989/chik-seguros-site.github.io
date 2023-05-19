@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body{
     background-color: whitesmoke;
-    color: #87CEFA;
-    font-family: 'Courier New', Courier, monospace;
+    color: #1E90FF;
+    font-family: 'Roboto', sans-serif;
     max-width: 1200px;
     margin: 0 auto;
     padding: 15px;
@@ -24,7 +26,7 @@ header{
 }
 
 #img-logo{
-    width: 100px;
+    width: 85px;
     display: inline-block;
     vertical-align: bottom;
 }
@@ -35,7 +37,7 @@ li{
 }
 
 a{
-    color: #87CEFA;
+    color: #1E90FF;
 }
 
 a:hover{
@@ -44,13 +46,13 @@ a:hover{
 }
 
 #inscreva-se-btn{
-    border: 2px solid #87CEFA;
+    border: 2px solid #1E90FF;
     padding: 10px;
     border-radius: 15px;
 }
 
 #inscreva-se-btn:hover{
-    background-color: #87CEFA;
+    background-color: #1E90FF;
     color: white;
 }
 
@@ -68,17 +70,17 @@ main{
 h2{
     font-size: 56px;
     line-height: 10px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Roboto', sans-serif;
 }
 
 span{
-    color: #87CEFA;
+    color: #1E90FF;
 }
 
 p{
     line-height: 20px;
     max-width: 500px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 form{
@@ -90,7 +92,7 @@ form{
 form [type="submit"]{
     height: 50px;
     width: 50%;
-    background-color:#87CEFA;
+    background-color:#1E90FF;
     color: white;
     font-weight: bold;
 }
@@ -103,7 +105,7 @@ input{
     height: 20px;
     padding: 15px;
     border-radius: 20px;
-    border: 1px solid #87CEFA;
+    border: 1px solid #1E90FF;
     font-size: 15px;
 }
 
